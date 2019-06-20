@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NYTSample</string>
+    <string name="error_text">Error Message</string>
+</resources>
